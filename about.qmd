@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+My name is **Tigran Sargsyan**, and I graduated from *nowhere*.
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
